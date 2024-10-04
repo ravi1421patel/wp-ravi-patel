@@ -1,0 +1,30 @@
+sup {
+    color: red;
+}
+
+.white-bg {
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+p.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 18px;
+}
+
+p.success {
+    text-align: center;
+    font-size: 18px;
+    color: green;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+td.left {
+    width: 300px;
+}
